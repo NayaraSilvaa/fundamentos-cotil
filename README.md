@@ -10,3 +10,14 @@ Me chamo **Nayara**, tenho 17 anos. Estou cursando o terceiro ano do ensino méd
 * CSS
 * JavaScript
 * Programação
+
+## Meu primeiro programa
+ 
+ O código abaixo é um clássico "Olá, Mundo!" em linguagem C, que utiliza a função printf() para exibir a mensagem na tela.
+
+```
+#include<stdio.h>
+int main(){
+    printf("Olá Mundo!");
+}
+```
