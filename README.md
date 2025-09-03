@@ -1,5 +1,3 @@
-# fundamentos-cotil
-Material da aula de Fundamentos da Informática
-git branch feature/comandos-git
-git branch
+## Sobre mim
 
+Me chamo **Nayara**, tenho 17 anos. Estou cursando o terceiro ano do ensino médio na escola ***Gabreil Pozzi***, e o curso técnico de ***Desenvolvimento de Sistemas*** no COTIL.
